@@ -18,7 +18,7 @@ In this task, I trained a logistic regression model to classify different specie
 
 In this task, I explored various fundamental characteristics of plotting using Python libraries, primarily `matplotlib`. I learned how to set axis labels and define axis limits to improve plot readability. Additionally, I created figures with multiple subplots to display various datasets side-by-side, added legends to distinguish between different data series, and saved the final plots as PNG files. This task provided a solid foundation in essential plotting techniques, which are crucial for data visualization and analysis.
 [code](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/plot.py)
-(![basics of plotting](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/output_image_5-1.png))
+![basics of plotting](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/output_image_5-1.png)
 
 
 **Subtask 3: Plot Types Exploration**
@@ -83,7 +83,7 @@ In this task, I utilized Plotly for data visualization, exploring its advanced f
 
 Using Plotly's capabilities, I was able to produce a variety of visualizations, including scatter plots, line charts, and 3D plots, each enhancing the storytelling aspect of the data. This experience not only improved my skills in creating visually appealing graphics but also emphasized the importance of interactive data exploration in analytical projects.
 [code](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/plotly.py) 
-![confusion matrix](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/output_image_31-1.png)
+
 
 ### Task 7: Decision Tree - Supervised Learning Algorithm
 
