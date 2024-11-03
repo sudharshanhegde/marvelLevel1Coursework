@@ -2,26 +2,28 @@
 
 
 
-### Task 1: Linear Regression - Predicting Home Prices
+### Task 1:
+**SubTask 1:Linear Regression - Predicting Home Prices**
 
 In this task, I used linear regression to predict home prices based on various factors like location, size, and number of bedrooms. By using `scikit-learn`'s `linear_model.LinearRegression()` function, I built a model that could analyze these variables and output price predictions. The process included preparing the dataset—cleaning up missing values and selecting important features—to ensure accuracy. Ultimately, I was able to train the model and make realistic predictions on housing prices, gaining practical experience with linear regression techniques in Python.
 [code](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/linearRegression.py)
+ 
 
-### Task 2: 
-
-**Subtask 1:Logistic Regression - Iris Species Classification**
+**Subtask 2:Logistic Regression - Iris Species Classification**
 
 In this task, I trained a logistic regression model to classify different species of the Iris flower based on features such as sepal length, sepal width, petal length, and petal width. Using `scikit-learn`'s `linear_model.LogisticRegression`, I built and trained the model on the famous Iris dataset, which provided labeled data for each flower species. After training, the model could successfully distinguish between species with a high accuracy. This exercise helped deepen my understanding of logistic regression for classification tasks in Python.
 [code](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/logisticRegression.py)
 
-**Subtask 2: Plotting Basics - Exploring Plot Characteristics**
+### Task 2:
+
+**Subtask 1: Plotting Basics - Exploring Plot Characteristics**
 
 In this task, I explored various fundamental characteristics of plotting using Python libraries, primarily `matplotlib`. I learned how to set axis labels and define axis limits to improve plot readability. Additionally, I created figures with multiple subplots to display various datasets side-by-side, added legends to distinguish between different data series, and saved the final plots as PNG files. This task provided a solid foundation in essential plotting techniques, which are crucial for data visualization and analysis.
 [code](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/plot.py)
 ![basics of plotting](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/output_image_5-1.png)
 
 
-**Subtask 3: Plot Types Exploration**
+**Subtask 2: Plot Types Exploration**
 
 In this task, I explored a variety of plot types using Python's visualization libraries, primarily `matplotlib` and `seaborn`. This included creating line and area plots, scatter and bubble plots with the Iris dataset, and various bar plots (simple, grouped, and stacked) to represent categorical data. I also worked with histograms to analyze distributions, pie charts for proportional data, and box and violin plots to visualize data spread and variability.
 
@@ -37,7 +39,7 @@ Additionally, I explored more advanced visualization types, such as marginal plo
 ![heat map](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/output_image_16-1.png)
 
 
-**Subtask 4: Multivariate Distribution and Clustering**
+**Subtask 3: Multivariate Distribution and Clustering**
 
 In this task, I created a multivariate distribution plot using the given dataset to facilitate a classification task. This involved visualizing the relationships between multiple variables and understanding how they interact with one another. I employed techniques such as pair plots and contour plots to identify potential clusters within the data. 
 
