@@ -35,6 +35,8 @@ Additionally, I explored more advanced visualization types, such as marginal plo
 ![marginal plot](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/output_image_14-1.png)
 ![contour plot](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/output_image_15-1.png)
 ![heat map](https://github.com/sudharshanhegde/marvelLevel1Coursework/blob/main/output_image_16-1.png)
+
+
 **Subtask 4: Multivariate Distribution and Clustering**
 
 In this task, I created a multivariate distribution plot using the given dataset to facilitate a classification task. This involved visualizing the relationships between multiple variables and understanding how they interact with one another. I employed techniques such as pair plots and contour plots to identify potential clusters within the data. 
